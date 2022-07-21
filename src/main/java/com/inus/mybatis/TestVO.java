@@ -1,4 +1,4 @@
-package com.inus.vo;
+package com.inus.mybatis;
 
 import lombok.Getter;
 import lombok.Setter;
